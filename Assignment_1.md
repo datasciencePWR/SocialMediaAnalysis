@@ -29,8 +29,8 @@
 3. (3 points) Visualization of tweeter hashtags popularity: for [dataset](http://followthehashtag.com/datasets/170000-uk-geolocated-tweets-free-twitter-dataset/) make a visualization on the map that show where was used the most popular hashtag (e.g. with heatmap).
 
 ### Readings
-[Pandas tutorial](https://github.com/jorisvandenbossche/pandas-tutorial)
-[Folium examples](https://github.com/python-visualization/folium/tree/master/examples)
+* [Pandas tutorial](https://github.com/jorisvandenbossche/pandas-tutorial)
+* [Folium examples](https://github.com/python-visualization/folium/tree/master/examples)
 
 ### Code samples 
 as in examples in  readings
