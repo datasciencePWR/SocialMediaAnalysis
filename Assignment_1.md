@@ -8,7 +8,7 @@
     * data organization: pandas
     * graphs: networkx, igpraph
     * visualization: matplotlib, seaborn, bokeh, ggplot, wordcloud, folium
-    * machine learning: sckikit-learn, xgboost
+    * machine learning: tensorflow, sckikit-learn, xgboost
     * NLP: gensim, spaCy, tweet2vec, 
     * statistics, algebra: numpy, scipy
     * scrapping: newspaper, portia, pyspider, scrapy
