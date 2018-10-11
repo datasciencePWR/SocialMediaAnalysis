@@ -32,7 +32,9 @@ This is not the full list of candidates, 3 more of them seems to be absent on Tw
 2. (3 points) **Analysis & Visualization**:
 
 A. show number of tweets in time (x axis) for candidates using any line plot; show number of re-tweets in time (x axis) for candidates using any line plot
+
 B. show popularity of tweets in time (number of likes, number of retweets) - likes assigned with tweets original date
+
 C. show distribution of activity for hour of day and day of week for tweeting and retweeting activities (both)
 
 *Expected outcome:*  set of good quality visualization, easy to interpret, with appropriate axis description 
