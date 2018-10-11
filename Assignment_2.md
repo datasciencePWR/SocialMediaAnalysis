@@ -21,27 +21,27 @@
 
 ### Tasks
 
-1. (1 point) **Data.** Using appropriate python module acquire Twitter dataset about Wroclaw presidential candidates activity on Twitter. Please condider these candidates that have been discovered by teaching team 
+1. (1 point) **Data.** Using appropriate python module acquire Twitter dataset about Wroclaw presidential candidate activity on Twitter. Please condider the following candidates that have been discovered by teaching team: 
 ```python
 ['RozeckaPL', 'GoTracz', 'martalempart', 'MichalakJerzy', 'KatarzynaObara', 'SutrykJacek']
 ```
-This is not the full list of candidates, 3 more of them seems to be absent on Twitter.
+This is not the full list of candidates, 3 more of them seem to be absent from Twitter.
 
-*Expected outcome:*  good quality raw dataset, with appropriate scope (see requirements in following tasks) for all candidates
+*Expected outcome:* a good quality raw dataset, with appropriate scope (see requirements in following tasks) for all candidates
 
 2. (3 points) **Analysis & Visualization**:
 
-A. show number of tweets in time (x axis) for candidates using any line plot; show number of re-tweets in time (x axis) for candidates using any line plot
+A. Show the number of tweets in time (x axis) for candidates using any line plot; show the number of re-tweets in time (x axis) for candidates using any line plot
 
-B. show popularity of tweets in time (number of likes, number of retweets) - likes assigned with tweets original date
+B. Show the popularity of tweets in time (number of likes, number of retweets) - likes assigned to tweet's publication date
 
-C. show distribution of activity for hour of day and day of week for tweeting and retweeting activities (both)
+C. Show the distribution of activity in the scope of a day (on an hourly basis) and week (on a daily basis) for tweeting and retweeting activities (both)
 
-*Expected outcome:*  set of good quality visualization, easy to interpret, with appropriate axis description 
+*Expected outcome:* a set of good quality visualization, easy to interpret, with appropriate axis description 
 
-3. (3 points) **Sentiment analysis.** Using apropriate python module show visualization of tweet sentiment (average) in time for all candidates. This is simple evaluation of sentiment, no entities (aspects) must be considered. Provide your explanation and objective interpretation.
+3. (3 points) **Sentiment analysis.** Using apropriate python module show visualization of tweet sentiment (average) in time for all candidates. This is a simple evaluation of sentiment, no need to consider entities (aspects). Provide your explanation and objective interpretation.
 
-*Expected outcome:* good quality visualization of sentiment distribution for all candidates
+*Expected outcome:* a good quality visualization of sentiment distribution for all candidates
 
 **Please send individual** solution (code+figures, eg. notebook) to [sma.wust@gmail.com](sma.wust@gmail.com) before next classes take place, evaluation during classes.
 
