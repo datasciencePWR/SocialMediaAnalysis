@@ -21,7 +21,7 @@
 
 ### Tasks
 
-1. (1 point) **Data.** Using appropriate python module acquire Twitter dataset about Wroclaw presidential candidate activity on Twitter. Please consider the following candidates that have been discovered by teaching team: 
+1. (2 point) **Data.** Using appropriate python module acquire Twitter dataset about Wroclaw presidential candidate activity on Twitter. Please consider the following candidates that have been discovered by teaching team: 
 ```python
 ['RozeckaPL', 'GoTracz', 'martalempart', 'MichalakJerzy', 'KatarzynaObara', 'SutrykJacek']
 ```
@@ -29,7 +29,7 @@ This is not the full list of candidates, 3 more of them seem to be absent from T
 
 *Expected outcome:* a good quality raw dataset, with appropriate scope (see requirements in following tasks) for all candidates
 
-2. (3 points) **Analysis & Visualization**:
+2. (5 points) **Analysis & Visualization**:
 
 A. Show the number of tweets in time (x axis) for candidates using any line plot; show the number of re-tweets in time (x axis) for candidates using any line plot
 
@@ -39,7 +39,7 @@ C. Show the distribution of activity in the scope of a day (on an hourly basis) 
 
 *Expected outcome:* a set of good quality visualization, easy to interpret, with appropriate axis description 
 
-3. (3 points) **Sentiment analysis.** Using appropriate python module show visualization of tweet sentiment (average) in time for all candidates. This is a simple evaluation of sentiment, no need to consider entities (aspects). Provide your explanation and objective interpretation.
+3. (4 points) **Sentiment analysis.** Using appropriate python module show visualization of tweet sentiment (average) in time for all candidates. This is a simple evaluation of sentiment, no need to consider entities (aspects). Provide your explanation and objective interpretation.
 
 *Expected outcome:* a good quality visualization of sentiment distribution for all candidates
 
