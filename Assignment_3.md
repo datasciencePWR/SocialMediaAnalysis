@@ -52,5 +52,7 @@
 
 [NetworkX](https://networkx.github.io/documentation/stable/)
 
+[Sklearn supervised learning](http://scikit-learn.org/stable/supervised_learning.html)
+
 ### Code samples 
 as in examples in  readings
