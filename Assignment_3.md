@@ -31,7 +31,7 @@
 
   * Use the previously obtained data to construct a network of Twitter users participating in the discussion surrounding the controversy. Use user Mentions and/or Follows as the basis for creating edges within the network.
 
-  * Perform a community detection on obtained network(s), using a selected method available in a Python module of choice.
+  * Perform a community detection on obtained network(s), using a selected method available in a Python module of choice. Ensure the communities do *not* overlap
 
   * Visualise the network(s) and communities obtained in the previous step. Note the size of communities and their placement within the network. What does the obtained structure tell you about controversy in question? 
 
@@ -41,9 +41,9 @@
 
 *Remark 2:* while constructing, two different network structures is not mandatory, reaching maximum points for tasks 2 and 3 is only possible if you do so.
 
-3. (5 points) **Community Analysis** Prepare an analysis of the community structure(s) using previously obtained visualisation, full dataset acquired in task 1 and appropriate Python modules. Consider a scope of community traits applicable, like unique hashtags, geo-location similarity, general linguistic sentiment etc. If you've created two network structures as a part of your work on task 2, review the differences between community structures retrieved. Is one approach more intuitively realistic than another?
+3. (5 points) **Community Analysis** Prepare an analysis of the community structure(s) using previously obtained visualisation, full dataset acquired in task 1 and appropriate Python modules. Extract relevant user-features (eg. usage of other topical hashtags, geolocation, average sentiment etc) and use them to train a simple classification model. Review the accuracy metrics and feature coefficients. If you've created two network structures as a part of your work on task 2, review the differences between classification results on each of them.
 
-*Expected outcome:* a thorough analysis of the community structures and meaningful thoughts, inferences and conclusions drawn by the student 
+*Expected outcome:* a thorough analysis of the community structures and meaningful thoughts; a simple classification model trained on the data; inferences and conclusions drawn by the student 
 
 **Please send individual** solution (code+figures, eg. notebook) to [sma.wust@gmail.com](sma.wust@gmail.com) before next classes take place, evaluation during classes.
 
