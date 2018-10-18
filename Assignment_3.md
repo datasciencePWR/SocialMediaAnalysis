@@ -41,7 +41,7 @@
 
 *Remark 2:* while constructing, two different network structures is not mandatory, reaching maximum points for tasks 2 and 3 is only possible if you do so.
 
-3. (5 points) **Community Analysis** Prepare an analysis of the community structure(s) using previously obtained visualisation, full dataset acquired in task 1 and appropriate Python modules. Extract relevant user-features (eg. usage of other topical hashtags, geolocation, average sentiment etc) and use them to train a simple classification model. Review the accuracy metrics and feature coefficients. If you've created two network structures as a part of your work on task 2, review the differences between classification results on each of them.
+3. (5 points) **Community Analysis** Prepare an analysis of the community structure(s) using previously obtained visualisation, full dataset acquired in task 1 and appropriate Python modules. Extract relevant user-features (eg. usage of other topical hashtags, geolocation, average sentiment etc) and use them to train a simple classification model, that maps these features to the cluster space (user features -> cluster_id). Review the accuracy metrics. If you've created two network structures as a part of your work on task 2, review the differences between classification results on each of them.
 
 *Expected outcome:* a thorough analysis of the community structures and meaningful thoughts; a simple classification model trained on the data; inferences and conclusions drawn by the student 
 
