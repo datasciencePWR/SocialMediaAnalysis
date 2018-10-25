@@ -31,7 +31,7 @@ B. Build a representation of words using pre-trained word vectors, e.g. Word2Vec
 C. Build a sentence representation: Average word-vectors in a sentence or use flattened sequence representation (requires padding as sentences have a varying length)
 *Expected outcome:* Representation of sentences that can be used to feed the neural network 
 
-*Remark*: Learning embedding even as a layer in a network may be time-consuming
+*Remark*: Learning embedding, even as a layer in a network, may be time-consuming
 
 2. (4 points) **Classifier building**. Build an MLP network using any deep learning framework, eg. Keras, Tensorflow, PyTorch to classify sentences
 
