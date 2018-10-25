@@ -21,7 +21,7 @@
 
 ### Tasks
 
-1. (2 point) **Data.** Using appropriate python module acquire Twitter dataset pertaining to a controversy of choice, identified through a hastag (eg. covfefe, gamergate, alllivesmatter etc)
+1. (2 point) **Data.** Using appropriate python module acquire Twitter dataset pertaining to a controversy of choice, identified through a hashtag (eg. covfefe, gamergate, alllivesmatter etc)
 
 *Expected outcome:* a good quality raw dataset, with appropriate scope (see requirements in following tasks)
 
