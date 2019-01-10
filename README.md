@@ -7,5 +7,5 @@ Assigment 4: [LINK](Assignment_4.md)
 Assigment 5 (Full Project Proposal): [LINK](Assignment_5.md)  
 
 Poster specification: [LINK](Poster_requirements.md)  
-Poster example (PSD): [LINK](poster_example_psd.7zip)  
+Poster example (PSD): [LINK](poster_example_psd.7z)  
 Poster example (TEX): [LINK](poster_example_tex.zip)
