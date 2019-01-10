@@ -19,6 +19,8 @@
 
 * **Promote your work**: upload your poster to http://datascienceprojects.ml/ and provide a handy QR code to access it, directly from the physical version of your poster
 
+* **Example posters**: [.psd file](poster_example_psd.7zip), [.tex file](poster_example_tex.zip); do note that .tex poster contains more text than advised, as it was prepared for being shown even when the author was not around to properly explain and present
+
 # Poster Sections
 
 ### Title
