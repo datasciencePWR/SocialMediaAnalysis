@@ -2,6 +2,7 @@
 
 * **Size**: 100cm x 100cm
 * **DPI**: 300 or more *(for the sake of readability and quality)*
+* **Language**: group's choice between *English* or *Polish*
 * **Deadline**: 21.01.2019; make sure to respect this deadline, as each poster will be manually reviewed by both the teaching staff and university's Press office, to ensure the quality and appropriateness of the poster.
 * **Presentation time**: 5 minutes maximum
 
