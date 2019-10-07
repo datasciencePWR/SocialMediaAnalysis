@@ -1,3 +1,4 @@
-# Social Media Analysis
+# Social Media Analysis (Winter 2019/2020)
 
-Winter 2018/2019: [LINK](https://github.com/datasciencePWR/SocialMediaAnalysis/tree/2018/2019-winter)
+Assigment 1: [LINK](Assignment_1.md)  
+
